@@ -1,7 +1,7 @@
 # my_runner
 
 ## Description
-C Graphical Programming my_runner Epitech Teck1
+C Graphical Programming | my_runner Epitech Teck1
 
 In this project, you are asked to make a small video game based on the rules of a finite Endless Running
 Game.
